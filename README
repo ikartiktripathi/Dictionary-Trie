@@ -1,0 +1,2 @@
+- For compiling and printing the output in a file:
+		make run > output
